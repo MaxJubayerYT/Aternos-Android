@@ -1,110 +1,109 @@
 # Aternos App (Unofficial)
 
-### 🚀 Aternos — now as an Android app.
-This project turns the Aternos website into a smooth, mobile-friendly Android application, so you can manage your Minecraft servers without constantly opening a browser.
+### •⚠️ This is an unofficial app. It is not affiliated with Aternos GmbH.
 
-⚠️ This is an unofficial app. It is not affiliated with Aternos GmbH.
+# •📱 What is this?
 
-📱 What is this?
+### •Aternos already has a powerful web panel, but using it on mobile can feel slow and messy. So I wrapped the official Aternos website into an Android app to make:
 
-Aternos already has a powerful web panel, but using it on mobile can feel slow and messy.
-So I wrapped the official Aternos website into an Android app to make:
+•Server control faster
 
-Server control faster
+•Navigation easier
 
-Navigation easier
+•Mobile usage smoother
 
-Mobile usage smoother
+•Everything feel more “app-like” instead of “website-ish”
 
-Everything feel more “app-like” instead of “website-ish”
+•No fake APIs.
+•No modified backend.
+•It uses the real Aternos website, just inside an app.
 
-No fake APIs.
-No modified backend.
-It uses the real Aternos website, just inside an app.
+### •🎮 What you can do
 
-🎮 What you can do
+•Start / stop your Minecraft server
 
-Start / stop your Minecraft server
+•View server status in real-time
 
-View server status in real-time
+•Manage players & console
 
-Manage players & console
+•Change server software (Paper, Fabric, Forge, etc.)
 
-Change server software (Paper, Fabric, Forge, etc.)
+•Access logs & settings
 
-Access logs & settings
+•Log in securely using Aternos’ official login
 
-Log in securely using Aternos’ official login
+•Basically: everything you normally do on aternos.org — but in one tap.
 
-Basically: everything you normally do on aternos.org — but in one tap.
+### •🛠️ How it works
 
-🛠️ How it works
+•Built using Android WebView
 
-Built using Android WebView
+•Loads the official Aternos website
 
-Loads the official Aternos website
+•No data scraping
 
-No data scraping
+•No account data stored
 
-No account data stored
+•Login happens directly on Aternos
 
-Login happens directly on Aternos
+•Your account stays 100% yours.
 
-Your account stays 100% yours.
+### 🔐 Security & Privacy
 
-🔐 Security & Privacy
+•This app does not collect passwords
 
-This app does not collect passwords
+•No trackers
 
-No trackers
+•No third-party analytics
 
-No third-party analytics
+•All authentication is handled by Aternos itself
 
-All authentication is handled by Aternos itself
+•If you can log in on the website, you can log in here.
 
-If you can log in on the website, you can log in here.
+### •⚠️ Disclaimer
 
-⚠️ Disclaimer
+###This app is:
 
-This app is:
+•Unofficial
 
-Unofficial
+•Fan-made
 
-Fan-made
+•Created for convenience and learning purposes
 
-Created for convenience and learning purposes
+•All rights, trademarks, and services belong to Aternos GmbH.
 
-All rights, trademarks, and services belong to Aternos GmbH.
+•If Aternos ever releases an official app — use that instead 👍
 
-If Aternos ever releases an official app — use that instead 👍
+### •🧠 Why I made this
 
-🧠 Why I made this
+•I use Aternos a lot and got tired of:
 
-I use Aternos a lot and got tired of:
+•Reopening the browser
 
-Reopening the browser
+•Losing tabs
 
-Losing tabs
+•Slow mobile navigation
 
-Slow mobile navigation
+•So I made this app to keep server management quick and simple.
 
-So I made this app to keep server management quick and simple.
+# 📦 Installation
 
-📦 Installation
+•Download the APK from the Releases section
 
-Download the APK from the Releases section
-Enable Install from unknown sources
-Install and enjoy ✨
+•Enable Install from unknown sources
 
-💬 Feedback & Issues
+•Install and enjoy ✨
 
-Found a bug?
-Have a suggestion?
+## 💬 Feedback & Issues
 
-Open an Issue or start a Discussion — I’m open to improvements.
+•Found a bug?
+
+•Have a suggestion?
+
+•Open an Issue or start a Discussion — I’m open to improvements.
 
 ⭐ Credits
 
-Aternos — for providing an amazing free server platform
+•Aternos — for providing an amazing free server platform
 
-Minecraft community — because servers never sleep
+•Minecraft community — because servers never sleep
