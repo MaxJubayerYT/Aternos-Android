@@ -62,7 +62,7 @@
 
 ### •⚠️ Disclaimer
 
-###This app is:
+### This app is:
 
 •Unofficial
 
