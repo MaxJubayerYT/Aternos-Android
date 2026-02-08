@@ -1,6 +1,6 @@
-Aternos App (Unofficial)
+# Aternos App (Unofficial)
 
-🚀 Aternos — now as an Android app.
+### 🚀 Aternos — now as an Android app.
 This project turns the Aternos website into a smooth, mobile-friendly Android application, so you can manage your Minecraft servers without constantly opening a browser.
 
 ⚠️ This is an unofficial app. It is not affiliated with Aternos GmbH.
