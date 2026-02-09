@@ -1,8 +1,16 @@
-# Aternos App (Unofficial)
+<h1 align="center">Aternos android (unofficial)</h1>
+<img src="https://github.com/user-attachments/assets/06fdbac6-77a1-4e3a-828b-3eb1a6684037" align="left" width="130" height="130" alt="Copper logo">
 
 ### •⚠️ This is an unofficial app. It is not affiliated with Aternos GmbH.
 
-# •📱 What is this?
+
+
+
+
+
+
+### •📱 What is this?
+
 
 ### •Aternos already has a powerful web panel, but using it on mobile can feel slow and messy. So I wrapped the official Aternos website into an Android app to make:
 
